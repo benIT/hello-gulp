@@ -18,6 +18,7 @@
     "gulp-cssbeautify": "latest",
     "gulp-autoprefixer": "latest",
     "gulp-uglify": "latest",
-    "gulp-concat": "latest"
+    "gulp-concat": "latest",
+    "gulp-jshint": "latest"
   }
 }

@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 var Bar = function () {
     console.log('instantiating a new bar object');
